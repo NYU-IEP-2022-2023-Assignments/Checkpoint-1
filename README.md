@@ -1,6 +1,6 @@
 # Magnetically Damped Pendulum Simulation - Checkpoint 1
 
-##Due 2/10/23 at 5:00 PM EST
+**Due 2/10/23 at 5:00 PM EST**
 
 To accept this assignment: https://classroom.github.com/a/D18UCiMO
 

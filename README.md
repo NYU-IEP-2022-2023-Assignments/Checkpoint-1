@@ -1,4 +1,7 @@
 # Magnetically Damped Pendulum Simulation - Checkpoint 1
+
+##Due 2/10/23 at 5:00 PM EST
+
 To accept this assignment: https://classroom.github.com/a/D18UCiMO
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
